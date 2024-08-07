@@ -1,0 +1,8 @@
+../Core/Src/modbusSlave.c:17:6:sendData	1
+../Core/Src/modbusSlave.c:42:6:modbusException	1
+../Core/Src/modbusSlave.c:54:9:readHoldingRegs	5
+../Core/Src/modbusSlave.c:93:9:readInputRegs	5
+../Core/Src/modbusSlave.c:138:9:readCoils	8
+../Core/Src/modbusSlave.c:204:9:readInputs	8
+../Core/Src/modbusSlave.c:270:9:writeHoldingRegs	5
+../Core/Src/modbusSlave.c:314:9:writeSingleReg	2
